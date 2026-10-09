@@ -1,0 +1,16 @@
+
+{
+  "name": "menunest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A scalable digital menu platform for restaurants and school cafeterias.",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo \"Static website ready for deployment\""
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0",
+    "serve": "^14.2.4"
+  }
+}
